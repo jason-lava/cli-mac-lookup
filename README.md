@@ -6,7 +6,7 @@ Here is a handy CLI tool to find the company manufacturer for any mac address. A
 * you have python3 installed > 
     * sudo apt install python3
     * confirm version with >
-    * python3 --version
+    *   python3 --version
 
 # How To Use:
 In the command line, type:
