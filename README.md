@@ -20,7 +20,3 @@ Tech used:
 
 This CLI tool was made to quickly look up any mac-address manufacturer. I added the argument section so you can lookup direct from cli. The program then pings a website with your mac address, reads/decodes the content, finds the web section for the manufacturer/company, and finally prints it to you.
 
-# Lessons Learned:
-
-No one method fits every bill. Scraping the data from JS was not going to work, Java too cumbersome, but attacking with Python proved to be the best tool for the job.
-I enjoyed being able to use Python versus trying to make another Language work. 
