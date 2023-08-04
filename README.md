@@ -10,7 +10,7 @@ Here is a handy CLI tool to find the company manufacturer for any mac address. A
 
 # How To Use:
 In the command line, type:
-* python3 mac-lookup.py [MAC-ADDRESS]
+* python3 mac-lookup.py [paste mac address here without brackets]
 
 # How It's Made:
 Tech used:
