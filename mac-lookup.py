@@ -12,4 +12,4 @@ endIndex = htmlContent.find("<th>Address:</th>") - len("<th>Address:</th>")
 
 company = htmlContent[startIndex:endIndex]
 
-print(company)
+print("Manufacturer: " + company)
