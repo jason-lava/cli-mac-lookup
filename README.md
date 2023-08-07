@@ -15,6 +15,7 @@ In the command line, type:
 # How It's Made:
 Tech used:
 
+* Docker
 * Python3
 * CLI
 
